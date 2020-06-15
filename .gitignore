@@ -1,0 +1,28 @@
+HELP.md
+bin/
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+*.log
+
+### STS ###
+.apt_generated
+.settings
+.springBeans
+.sts4-cache
+.gradle
+
+
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+### VS Code ###
+.vscode/
+/.attach_*
+/.apt_generated_tests/
